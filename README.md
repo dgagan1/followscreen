@@ -4,6 +4,7 @@ Its a screen recorder written in python. It records the screen activities.I used
 Dependencies:
 Following python3 modules are required.
 
-PyAutoGUI
-PIL
-os
+PyAutoGUI for taking screenshots.
+PIL for Image manipulations.
+OS for fil accesses.
+Tkinter for GUI preparation.
