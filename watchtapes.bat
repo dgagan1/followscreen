@@ -1,1 +1,1 @@
-@py c:\users\moghya_s\PycharmProjects\FollowScreen\watch.py %*
+@py watch.py %*
